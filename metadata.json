@@ -1,0 +1,6 @@
+{
+  "name": "Personalized Gift Recommendation Platform",
+  "description": "AI-powered personalized gift recommendation platform featuring authentic real product visualizations, multi-angle optical loupe, real-world scale comparisons, gift unboxing simulator, and multi-store pricing.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
